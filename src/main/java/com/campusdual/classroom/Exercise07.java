@@ -42,6 +42,7 @@ public class Exercise07 {
         System.out.println(resultado + "\n");
     }
 
+
     //TODO ↓
     // Que imprima por pantalla los N primeros números positivos
     public static void showFirstNaturalNumbers(int num) {
